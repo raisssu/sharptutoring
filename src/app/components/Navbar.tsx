@@ -3,7 +3,7 @@ import React from 'react'
 
 const Navbar: React.FC = () => {
   return (
-    <nav className="flex flex-row p-8 space-x-12">
+    <nav className="flex flex-row p-8 space-x-12 text-st-100">
         <Link href="/">
             Home
         </Link>
